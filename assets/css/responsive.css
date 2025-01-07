@@ -276,6 +276,11 @@
 
 @media only screen and (max-width: 991px){
 
+  .banner-carousel .content-box .btn-box .call-now .inner {
+   
+    padding: 10px 25px; /* Espaciado interno */
+    border-radius: 50px;
+  }
   .header-top .top-inner .info,
   .header-top .top-inner .right-column{
     float: none;
@@ -634,10 +639,12 @@
   }
 
   .banner-carousel .content-box h1{
-    font-size: 40px;
+    font-size: 30px;
     line-height: 48px;
   }
-
+  .banner-carousel .content-box p{
+    font-size:20px ;
+  }
   .banner-carousel .slide-item{
     padding: 180px 0px 120px 0px;
   }

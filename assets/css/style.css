@@ -450,12 +450,12 @@ img {
   }
 
   .floating-button {
-    width: 45px;
-    height: 45px;
+    width: 65px;
+    height: 65px;
   }
 
   .floating-button i {
-    font-size: 20px;
+    font-size: 35px;
   }
 }
 
